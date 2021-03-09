@@ -1,3 +1,5 @@
-MLProject: project for Machine Learning exam, report with code
+University projects
 
-Social Network Analysis - Wikipedia Admin Vote: project for Social Network Analysis exam, code
+MSc in Data Science and Economics
+
+Università degli Studi di Milano

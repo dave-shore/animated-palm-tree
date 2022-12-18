@@ -1,5 +1,5 @@
-University projects
+# animated-palm-tree
 
-MSc in Data Science and Economics
+---
 
-Università degli Studi di Milano
+University Projects - MSc in Data Science and Economics @ Università degli Studi di Milano

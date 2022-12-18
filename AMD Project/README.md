@@ -1,5 +1,5 @@
-Project for Algorithms for Massive Data exam (Davide Riva, 944176 - Irene Aggiudicato, 960261)
+# Algorithms for Massive Data project
 
-MSc in Data Science and Economics
+(Davide Riva - Irene Aggiudicato)
 
-Università degli Studi di Milano
+MSc in Data Science and Economics @ Università degli Studi di Milano
